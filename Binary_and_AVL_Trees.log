@@ -1,0 +1,2 @@
+﻿Binary_and_AVL_Trees.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall AVL_treee<int>::deleteNodesRecursive(class Node<int> *)" (?deleteNodesRecursive@?$AVL_treee@H@@QAEXPAV?$Node@H@@@Z) в функции "public: __thiscall AVL_treee<int>::~AVL_treee<int>(void)" (??1?$AVL_treee@H@@QAE@XZ).
+C:\Proga\Binary_and_AVL_Trees\Debug\Binary_and_AVL_Trees.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
